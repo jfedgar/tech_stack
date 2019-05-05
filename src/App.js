@@ -1,5 +1,6 @@
 // this app demonstrates redux as well as an efficient list view for long lists
-//
+// It also demonstrates basic animation in ListItem
+
 // note: reducers/index.js and LibraryReducer contains some notes on imports and exports
 
 import React from 'react';
